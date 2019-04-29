@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1556561551,
+	"version": 1556562253,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,7 +10,6 @@
 		"images/shootbutton-sheet1.png",
 		"images/damage-sheet0.png",
 		"images/arrowupbutton-sheet0.png",
-		"images/arrowupbutton-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
